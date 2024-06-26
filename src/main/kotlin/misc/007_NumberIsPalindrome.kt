@@ -1,4 +1,4 @@
-import kotlin.math.abs
+package misc
 
 fun main() {
     println("IsPalindrome: ${isPalindrome(1234)}")

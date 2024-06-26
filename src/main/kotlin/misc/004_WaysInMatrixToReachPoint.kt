@@ -1,3 +1,5 @@
+package misc
+
 fun main() {
     val result = count(3,3)
     println("Result: $result")

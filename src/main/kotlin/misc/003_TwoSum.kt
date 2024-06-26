@@ -1,3 +1,5 @@
+package misc
+
 fun main() {
     val array = intArrayOf(2,3,5,7,8,9)
     val result = twoSum(array, 9)

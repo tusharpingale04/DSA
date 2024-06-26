@@ -1,4 +1,4 @@
-
+package misc
 fun main() {
     val result = countTrailingZeros(30)
     println("trailing zeros: $result")

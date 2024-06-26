@@ -1,3 +1,5 @@
+package misc
+
 import kotlin.math.abs
 
 fun main() {
